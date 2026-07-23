@@ -18,5 +18,5 @@
 - Cybersecurity Fundamentals
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenishrathod807-coder&show_icons=true&theme=github_dark)
+[
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenishrathod807-coder&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=jenishrathod807-coder&show_icons=true&theme=github_dark)
