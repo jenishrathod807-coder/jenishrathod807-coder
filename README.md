@@ -4,6 +4,13 @@
 
 🛡️ Aspiring Cybersecurity Engineer
 
+## 🚀 About Me
+
+- 🛡️ Interested in Cybersecurity & Cloud Security
+- 📚 Currently pursuing Computer Engineering
+- 🌱 Learning Linux, Networking, Python & Security Fundamentals
+- 🎯 Goal: Become a Security Engineer and work internationally
+
 ## Skills
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -16,6 +23,18 @@
 - Networking
 - Python
 - Cybersecurity Fundamentals
+
+## 📂 Featured Projects
+
+🔹 Linux Basics Notes
+
+🔹 Python Password Generator
+
+🔹 Port Scanner
+
+🔹 Network Scanner
+
+🔹 Portfolio Website
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=jenishrathod807-coder&show_icons=true&theme=github_dark)
