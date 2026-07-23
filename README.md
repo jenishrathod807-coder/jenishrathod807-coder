@@ -16,4 +16,7 @@
 - Networking
 - Python
 - Cybersecurity Fundamentals
-- ![Jenish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenishrathod807-coder&show_icons=true&theme=github_dark)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenishrathod807-coder&show_icons=true&theme=github_dark)
